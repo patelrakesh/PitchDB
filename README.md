@@ -10,7 +10,7 @@ PitchDB is a powerful platform that helps users **find, pitch, and book speaking
 - **CRM Integration:** Track leads, responses, and follow-ups.
 - **Dashboard & Analytics:** Monitor outreach performance and engagement.
 
-## ⚙ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
