@@ -29,6 +29,6 @@ PitchDB is a powerful platform that helps users **find, pitch, and book speaking
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/pitchdb-web.git
+git clone https://github.com/patelrakesh/pitchdb-web.git
 cd pitchdb-web
 npm install
